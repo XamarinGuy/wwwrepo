@@ -22,6 +22,7 @@ namespace App13.UWP
             this.InitializeComponent();
 
             LoadApplication(new App13.App());
+            //
         }
     }
 }
